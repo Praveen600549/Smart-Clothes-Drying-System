@@ -63,6 +63,9 @@ https://wokwi.com/projects/457921932420225025
 
 <img width="946" height="796" alt="image" src="https://github.com/user-attachments/assets/c1d59f4b-882e-4517-afce-7de3e4c7fdd2" />
 
+<img width="952" height="815" alt="image" src="https://github.com/user-attachments/assets/debf2aa6-6fdb-4f9e-b98c-ab570090f232" />
+
+
 ## Weekly Updates
 
 ## Week 1 – INTRO (06/03/2026)
