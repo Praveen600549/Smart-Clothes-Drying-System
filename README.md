@@ -59,6 +59,9 @@ void loop() {
 }
 ```
 
+https://wokwi.com/projects/457921932420225025
+
+
 ## Weekly Updates
 
 ## Week 1 – INTRO (06/03/2026)
