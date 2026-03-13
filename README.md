@@ -1,3 +1,7 @@
+Walgama Kankanamge Praveen Kavishka
+4230z
+
+
 # Motion Sensor Light Using Arduino
 
 ## Project Title
