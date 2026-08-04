@@ -1,8 +1,5 @@
 Walgama Kankanamge Praveen Kavishka
 4230z
-Kaveen Dulaj Adithya Fernando
-4230z
-
 
 Smart Clothes Drying System Using Arduino
 Project Title
